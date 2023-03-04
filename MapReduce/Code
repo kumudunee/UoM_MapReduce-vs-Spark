@@ -1,0 +1,23 @@
+Hadoop / Hive sql
+
+1.Year wise carrier delay from 2003-2010
+
+Execution time: 19.259s
+
+
+2.Year wise NAS delay from 2003-2010
+
+Execution time:  11.74s
+
+
+3.Year wise Weather delay from 2003-2010
+
+Execution time:  11.523s
+
+4.Year wise late aircraft delay from 2003-2010
+
+Execution time: 11.301s
+
+5.Year wise security delay from 2003-2010
+
+Execution time:  11.388s
